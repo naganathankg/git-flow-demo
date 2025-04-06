@@ -3,3 +3,5 @@ Git Flow Commands:
 Git clone
 
 git status
+
+git difference filename1..filename2
