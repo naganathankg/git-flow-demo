@@ -14,6 +14,9 @@ git push and pull will be automatically
 setup track
 
 
+<<<<<<< HEAD
 check commits
 
+=======
+>>>>>>> c68d8ac6eb68e9ed1f8583db1d2be6262338cc0f
 commits
