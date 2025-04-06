@@ -5,3 +5,6 @@ Git clone
 git status
 
 git difference filename1..filename2
+
+E:\git-flow-demo>git branch --set-upstream-to=origin/main main
+branch 'main' set up to track 'origin/main'.
